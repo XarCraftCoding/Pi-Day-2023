@@ -5,5 +5,11 @@
 Okay, lets talk about what this repository does.
 The ***monteCarloMethod.cpp*** does calculate the pi from Monte Carlo's method in C++.
 The ***leibnizFormula.cpp*** does calculate the pi from Leibniz formula in C++.
+The ***monteCarloMethod.c*** does calculate the pi from Monte Carlo's method in C.
+The ***leibnizFormula.c*** does calculate the pi from Leibniz formula in C.
+The ***monteCarloMethod.py*** does calculate the pi from Monte Carlo's method in Python.
+The ***leibnizFormula.py*** does calculate the pi from Leibniz formula in Python.
+The ***monteCarloMethod.bat*** does calculate the pi from Monte Carlo's method in Batch.
+The ***leibnizFormula.bat*** does calculate the pi from Leibniz formula in Batch.
 
 Thank you for *reading* the ***README.md***.

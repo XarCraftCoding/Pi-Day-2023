@@ -24,12 +24,8 @@
 *.out
 *.app
 
-.gitignore
+*.gitignore
 
-leibnizFormula.bat
-leibnizFormula.c
-leibnizFormula.py
-
-monteCarloMethod.bat
-monteCarloMethod.c
-monteCarloMethod.py
+*.c
+*.py
+*.bat

@@ -23,9 +23,3 @@
 *.exe
 *.out
 *.app
-
-*.gitignore
-
-*.c
-*.py
-*.bat

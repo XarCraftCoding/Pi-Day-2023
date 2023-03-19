@@ -4,8 +4,6 @@
 
 Okay, lets talk about what this repository does.
 The ***monteCarloMethod.cpp*** does calculate the pi from Monte Carlo's method in C++.
-The ***monteCarloMethod.c*** does the exact same does ***monteCarloMethod.cpp,*** but in C.
 The ***leibnizFormula.cpp*** does calculate the pi from Leibniz formula in C++.
-The ***leibnizFormula.c*** does the exact same does ***leibnizFormula.cpp,*** but in C.
 
 Thank you for *reading* the ***README.md***.
